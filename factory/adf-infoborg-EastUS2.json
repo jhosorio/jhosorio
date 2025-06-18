@@ -1,0 +1,9 @@
+{
+	"name": "adf-infoborg-EastUS2",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "115ee2df-283e-4a15-9be9-b2875aea321a",
+		"tenantId": "2231752a-1425-4d25-aea7-f074b4987d2e"
+	}
+}
